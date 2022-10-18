@@ -7,6 +7,15 @@ Just clone the repo and make use of the files.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/knL6uKBGyIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 This [blog post](https://mibrs.github.io/audio/web-design/2021/12/14/EMusic-Recording.html) shows the settings for Audacity, please choose them as shown in the red ellipses. 
+
+``` language=html
+<div>
+  <audio controls>
+    <source src="/assets/220516Rec1.mp3" type="audio/mpeg">
+  </audio>
+</div>
+```
 
 If you want to create your first patch with MAX (programs are called patches), [here](https://youtu.be/XQIWh4AnluI) is a Youtube video that gives you a first introduction.
