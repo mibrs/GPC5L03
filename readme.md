@@ -3,6 +3,11 @@ This repo (short for repository) contains various files that can be used to set 
 
 Just clone the repo and make use of the files.
 
+### Start adding images to your website
+![w3schools.com](w3schoolsEx.png)
+
+The w3schools site is a good place to learn and try out HTML and CSS. [Here](https://www.w3schools.com/tags/tag_img.asp) is an example on how to add images using the <img> tag. 
+
 ### This video explains how to make recordings of in-app or browswer content on a Windows 10 machine.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/knL6uKBGyIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
