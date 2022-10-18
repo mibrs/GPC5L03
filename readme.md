@@ -8,7 +8,9 @@ Just clone the repo and make use of the files.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/knL6uKBGyIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-This [blog post](https://mibrs.github.io/audio/web-design/2021/12/14/EMusic-Recording.html) shows the settings for Audacity, please choose them as shown in the red ellipses. 
+This [blog post](https://mibrs.github.io/audio/web-design/2021/12/14/EMusic-Recording.html) shows the settings for Audacity, please choose them as shown in the red ellipses.
+
+The code snippet below adds an audio player that allows you to play the mp3 file "220516Rec1.mp3" that has been saved in the folder "assets" inside your repository.
 
 ``` language=html
 <div>
