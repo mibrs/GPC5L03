@@ -18,7 +18,7 @@ This repo (short for repository) contains the activities for today's session.
 ### When you still have time ... some interesting stuff
 - [ ] Add assets (images and audio files) to our website.
 	- [ ] See how to show an image on your website [here](https://www.w3schools.com/tags/tag_img.asp)!
-	- [ ] Download content from GitHub, uncompress it and then put it on the web. ![How to clone a repo from GitHub](221025 HowToCloneWithGitHub.png)
+	- [ ] Download today's [GitHub](https://github.com/mibrs/GPC5L03) repo with some assets, uncompress it and then put it on the web. ![How to clone a repo from GitHub](221025 HowToCloneWithGitHub.png)
 - Play a MAX patch and record it.
 	- [ ] Install Audacity and Max 8 with Netsoft on the PC.
 	- [ ] Launch MAX 8 with the sequencer patch and use Audacity to record a session (see video below for how to use Audacity).
