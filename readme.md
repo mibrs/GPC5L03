@@ -22,7 +22,7 @@ This repo (short for repository) contains the activities for today's session.
 	- [ ] See how to show an image on your website [here](https://www.w3schools.com/tags/tag_img.asp)!
 	- [ ] Download today's [GitHub](https://github.com/mibrs/GPC5L03) repo with some assets, uncompress it and then put it on the web. 
 
-![How to clone a repository from GitHub]("221025 HowToCloneWithGitHub.png")
+![How to clone a repository from GitHub](221025HowToCloneWithGitHub.png)
 
 - Play a MAX patch and record it.
 	- [ ] Install Audacity and Max 8 with Netsoft on the PC.
