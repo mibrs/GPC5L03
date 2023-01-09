@@ -11,14 +11,14 @@ This repo (short for repository) contains the activities for today's session.
 	- [ ] Check that your website with the simple message is visible on the web with the URL "username.github.io".
 	- [ ] Think about a topic you want to write about and what materials you may be able to use. 
 	- [ ] Create a scaffolding with outline for your website.
-	- [ ] Discover HTML with [w3schools.com](https://www.w3schools.com/html/default.asp). Here you can also get the basic html code you need for your webpage, just copy and paste it from here to the index.html file on GitHub. ![w3schools.com](w3schoolsEx.png)
+	- [ ] Discover HTML with [w3schools.com](https://www.w3schools.com/html/default.asp). Here you can also get the basic html code you need for your webpage, just copy and paste it from here to the index.html file on GitHub. ![w3schools.com](/media/w3schoolsEx.png)
 
 	- [ ] You may use the w3school editor to create your site by copying and pasting various examples and modify them. 
 		
 ### When you still have time ... some interesting stuff
 - [ ] Add assets (images and audio files) to our website.
 	- [ ] See how to show an image on your website [here](https://www.w3schools.com/tags/tag_img.asp)!
-	- [ ] Download today's [GitHub](https://github.com/mibrs/GPC5L03) repo with some assets, uncompress it and then put it on the web. ![How to clone a repository from GitHub](221025HowToCloneWithGitHub.png)
+	- [ ] Download today's [GitHub](https://github.com/mibrs/GPC5L03) repo with some assets, uncompress it and then put it on the web. ![How to clone a repository from GitHub](/media/221025HowToCloneWithGitHub.png)
 
 - [ ] Play a MAX patch and record it.
 	- [ ] Install Audacity and Max 8 with Netsoft on the PC.
